@@ -60,7 +60,7 @@ We will also use Jupyter (IPython) notebooks, but this does not remove the need 
 
 What terminal editor will you use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> nano, i plan to use PyCharm, so figured I'd go with the one recommended for people using a graphical editor
 
 --
 
@@ -68,6 +68,6 @@ What terminal editor will you use? How did you make your decision?
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> PyCharm, I've used it before, and liked the interface, I also liked how well it paired with Git. Not sure if I know any useful shortcuts with yet, but I hopefully I'll pick some up going forward.
 
  
