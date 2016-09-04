@@ -9,7 +9,7 @@ tutorial](https://web.archive.org/web/20160708171659/http://cli.learncodethehard
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do, focused on things that are new, interesting, or otherwise worth remembering.
 
-> > 1. cd: change directory, 2. ls: list of info about file, 3. bash: bourne-again shell, 4. break: exit from loop, 5. echo: display text, 6. exit: exit shell, 7. for: for loop command
+> > 1. cd: change directory, 2. ls: list of info about file, 3. bash: bourne-again shell, 4. break: exit from loop, 5. echo: display text, 6. exit: exit shell, 7. for: for loop command, 8. return: exit a function, 9. sudo: execute a command as another user, 10. while: while loop command
 
 
 ---
