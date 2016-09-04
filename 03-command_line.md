@@ -25,13 +25,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > ls: list the contents of file  
+> > ls: list the contents of file   
 ls -a: do not hide elements starting with '.'  
 ls -l: use a long listing format  
 ls -lh: long list the size in human understandable format  
-ls -lah:  
-ls -t:  
-ls -Glp:  
+ls -lah: long list, does not hide elements starting with '.' and size in human understandable  
+ls -t: sorts list by time  
+ls -Glp:   
 
 ---
 
