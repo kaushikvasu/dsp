@@ -39,7 +39,11 @@ ls -Glp:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > ls -r: files in reverse order   
+ls -d: displays only directories  
+ls -x: displays files as rows across screen  
+ls -u: displays files as files across time  
+ls -R: displays subdirectories as well  
 
 ---
 
