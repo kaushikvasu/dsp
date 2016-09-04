@@ -52,12 +52,12 @@ ls -R: displays subdirectories as well
 What does `xargs` do? Give an example of how to use it.
 
 > > `xargs` reads from a standard input, delimited by blanks and new lines (blank spaces/lines are ignored)  
-ex. 
-xargs 
-Hi,
-Hello.
--->
-Hi, Hello.
+ex.  
+xargs   
+Hi,  
+Hello.  
+-->  
+Hi, Hello.  
 
  
 
