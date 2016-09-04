@@ -26,7 +26,7 @@ What do the following commands do:
 `ls -Glp`  
 
 > > ls: list the contents of file  
-ls -a: do not hide elements starting with '.'
+ls -a: do not hide elements starting with '.'  
 ls -l: use a long listing format  
 ls -lh: long list the size in human understandable format  
 ls -lah:  
