@@ -27,8 +27,11 @@ What do the following commands do:
 
 > > ls: list the contents of file  
 ls -a: do not hide elements starting with '.'
-ls -l: use a long listing format
-ls -lh
+ls -l: use a long listing format  
+ls -lh: long list the size in human understandable format  
+ls -lah:  
+ls -t:  
+ls -Glp:  
 
 ---
 
