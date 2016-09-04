@@ -25,7 +25,10 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > ls: list the contents of file  
+ls -a: do not hide elements starting with '.'
+ls -l: use a long listing format
+ls -lh
 
 ---
 
